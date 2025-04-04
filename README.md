@@ -8,7 +8,7 @@ Bedrock Edition：Miaowuji1935
 Minecraft  
 使命召唤手游（模拟器）
 # 朋友
-FBshaozi
+FBshaozi  
 ......
 # 其他
 未完待续......
