@@ -1,5 +1,5 @@
 # 简介
-这里是Miaowuji(喵呜机)！  
+这里是Miaowuji（喵呜机）！  
 QQ：3542744685  
 Minecraft ID：  
 Java Edition：Miaowuji  
