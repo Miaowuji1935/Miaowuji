@@ -7,5 +7,8 @@ Bedrock Edition：Miaowuji1935
 # 现活跃
 Minecraft  
 使命召唤手游（模拟器）
+# 朋友
+FBshaozi
+......
 # 其他
-未完待续……
+未完待续......
